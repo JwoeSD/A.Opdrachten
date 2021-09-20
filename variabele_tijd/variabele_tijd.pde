@@ -16,4 +16,4 @@ println(second/b);
 println(third/b);
 
 println(1218/24);
-text("conclusie: 50 dagen en 8 uur", 8, 8);
+text("conclusie: 50 dagen en 8 uur en 0 jaar", 8, 8);
